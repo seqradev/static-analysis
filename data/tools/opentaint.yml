@@ -1,0 +1,19 @@
+name: OpenTaint
+categories:
+  - linter
+tags:
+  - java
+  - kotlin
+  - security
+license: Apache-2.0
+types:
+  - cli
+source: 'https://github.com/seqra/opentaint'
+homepage: 'https://opentaint.org'
+description: >-
+  Open source taint analysis engine designed to work with AI agents. During a review the
+  agent enacts what it learns — vulnerability patterns as taint rules, code behavior as
+  summaries the engine sees through. The engine holds all three corners of the classic
+  trilemma — scan time, false alarms, missed findings — tracking traces across procedures,
+  fields, and aliases at scale. The agent learns on demand, the engine searches every
+  scan, and the review stays lean and continuous.
